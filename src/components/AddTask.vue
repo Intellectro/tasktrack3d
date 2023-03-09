@@ -27,7 +27,7 @@
             <input type="submit" value="Save Task" class="btn-save" />
         </form>
         <div class="alert-msg">
-            <span class="msg">Please enter a valid name</span>
+            <span class="msg">Please enter a task</span>
         </div>
     </div>
 </template>
